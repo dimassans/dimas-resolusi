@@ -1,5 +1,6 @@
 Resolusi Kedepannya
 - Konsisten ngoding
+- belajar framework
 - belajar front-end sampai react
 - menjadi front end developer
 - dapat kerja sampingan
